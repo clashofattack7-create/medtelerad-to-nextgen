@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets, sessions, and patient/PII data — NEVER commit these
+*.json
+*.html
+*.pdf
+*.png
+*.out.txt
+
+# Captcha / scratch
+.captcha_tmp/
+.tmp/
